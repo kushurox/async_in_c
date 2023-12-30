@@ -1,0 +1,1 @@
+typedef enum {TASK_LIMIT_EXCEEDING} async_error;
